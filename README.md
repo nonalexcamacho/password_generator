@@ -8,12 +8,14 @@ This is a simple Python script that generates a random password based on the spe
 2. Make sure you have Python installed on your system.
 3. Open a terminal or command prompt and navigate to the directory where `main.py` file is located.
 4. Run the script using the following command:
+   
    ```
      python main.py
    ```
-5. The script will prompt you to enter the number of letters, symbols, and numbers you want in your password.
-6. After providing the inputs, the script will generate a random password based on your specifications.
-7. It will display the generated password and a randomized version of the password.
+   
+6. The script will prompt you to enter the number of letters, symbols, and numbers you want in your password.
+7. After providing the inputs, the script will generate a random password based on your specifications.
+8. It will display the generated password and a randomized version of the password.
 
 ## Example
 
